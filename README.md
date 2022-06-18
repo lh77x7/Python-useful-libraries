@@ -7,6 +7,7 @@ Links to useful Python libraries for your daily work.
 <i>Python</i> - The official home of the Python Programming Language.
 <li>Website: https://www.python.org/</li>
 <li>Github: https://github.com/python/cpython</li>
+
 </br>
 
 <b>2) data science</b>
@@ -27,6 +28,7 @@ Links to useful Python libraries for your daily work.
 <li>Website: https://matplotlib.org/stable/</li>
 <li>Github: https://github.com/matplotlib/matplotlib</li>
 
+</br>
 
 <b>3) another language compilers</b>
 
@@ -35,6 +37,7 @@ Links to useful Python libraries for your daily work.
 <li>Github: https://github.com/cython/cython</li>
 
 </br>
+
 <b>4) you will love it!</b>
 
 
