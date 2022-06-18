@@ -38,6 +38,10 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Transcrypt</i> - Python 3.7 to JavaScript compiler - Lean, fast, open.
+<li>Website: http://www.transcrypt.org/</li>
+<li>Github: https://github.com/QQuick/Transcrypt</li>
+
 <b>4) you will love it!</b>
 
 
