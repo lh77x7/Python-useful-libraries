@@ -23,9 +23,16 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>matplotlib<i> - matplotlib: plotting with Python.
+<li>Website: https://matplotlib.org/stable/</li>
+<li>Github: https://github.com/matplotlib/matplotlib</li>
+
 
 <b>3) another language compilers</b>
 
+<i>Cython</i> - The most widely used Python to C compiler.
+<li>Website: https://cython.org/</li>
+<li>Github: https://github.com/cython/cython</li>
 
 </br>
 <b>4) you will love it!</b>
