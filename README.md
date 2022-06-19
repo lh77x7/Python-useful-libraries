@@ -56,6 +56,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>pyast64</i> - Compile a subset of the Python AST to x64-64 assembler
+<li>Website: https://benhoyt.com/writings/pyast64/</li>
+<li>Github: https://github.com/benhoyt/pyast64</li>
+
+</br>
+
 <b>4) you will love it!</b>
 
 <i>Tkinter</i> - Python's de-facto standard GUI (Graphical User Interface) package. </br>
