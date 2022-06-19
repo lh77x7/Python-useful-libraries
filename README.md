@@ -24,6 +24,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>SciPy (Scientific Python)</i> - library for data science that is extensively used for high-level computations.
+<li>Website: https://scipy.org/</li>
+<li>Github: https://github.com/scipy/scipy</li>
+
+</br>
+
 <i>matplotlib<i> - matplotlib: plotting with Python.
 <li>Website: https://matplotlib.org/stable/</li>
 <li>Github: https://github.com/matplotlib/matplotlib</li>
@@ -46,5 +52,11 @@ Links to useful Python libraries for your daily work.
 
 <b>4) you will love it!</b>
 
+<i>Tkinter</i> - Python's de-facto standard GUI (Graphical User Interface) package. </br>
+It is a thin object-oriented layer on top of Tcl/Tk.
+<li>Website: https://wiki.python.org/moin/TkInter</li>
+<li>Github: https://github.com/python/cpython/tree/main/Lib/tkinter</li>
+
+</br>
 
 </br>
