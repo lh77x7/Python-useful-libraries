@@ -30,6 +30,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>scikit-learn</i> -  machine learning in Python
+<li>Website: https://scikit-learn.org/stable/</li>
+<li>Github: https://github.com/scikit-learn/scikit-learn</li>
+
+</br>
+
 <i>matplotlib<i> - matplotlib: plotting with Python.
 <li>Website: https://matplotlib.org/stable/</li>
 <li>Github: https://github.com/matplotlib/matplotlib</li>
