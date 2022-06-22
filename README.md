@@ -50,6 +50,24 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Aesara (earlier Theano)</i> - library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.  
+<li>Website: https://aesara.readthedocs.io/en/latest/</li>
+<li>Github: https://github.com/aesara-devs</li>
+
+</br>
+
+<i>Tensorflow</i> - Machine Learning Framework for everyone.
+<li>Website: https://www.tensorflow.org/</li>
+<li>Github: https://github.com/tensorflow</li>
+
+</br>
+
+<i>Keras</i> - Deep Learning for humans.
+<li>Website: https://keras.io/</li>
+<li>Github: https://github.com/keras-team/keras</li>
+
+</br>
+
 <i>Transcrypt</i> - Python 3.7 to JavaScript compiler - Lean, fast, open.
 <li>Website: http://www.transcrypt.org/</li>
 <li>Github: https://github.com/QQuick/Transcrypt</li>
