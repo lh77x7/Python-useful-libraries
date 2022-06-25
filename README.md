@@ -42,6 +42,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Seaborn</i> - Python data visualization library based on matplotlib.
+<li>Website: https://seaborn.pydata.org/</li>
+<li>Github: https://github.com/mwaskom/seaborn</li>
+
+</br>
+
 <i>Aesara (earlier Theano)</i> - library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.  
 <li>Website: https://aesara.readthedocs.io/en/latest/</li>
 <li>Github: https://github.com/aesara-devs</li>
@@ -68,6 +74,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Nuitka</i> - Python compiler written in Python.
+<li>Website: https://nuitka.net/doc/user-manual.html</li>
+<li>Github: https://github.com/Nuitka/Nuitka</li>
+
+</br>
+
 <i>Transcrypt</i> - Python 3.7 to JavaScript compiler - Lean, fast, open.
 <li>Website: http://www.transcrypt.org/</li>
 <li>Github: https://github.com/QQuick/Transcrypt</li>
@@ -86,6 +98,11 @@ Links to useful Python libraries for your daily work.
 It is a thin object-oriented layer on top of Tcl/Tk.
 <li>Website: https://wiki.python.org/moin/TkInter</li>
 <li>Github: https://github.com/python/cpython/tree/main/Lib/tkinter</li>
+
+</br>
+
+<i>PyInstaller Extractor</i> - translator Python to EXE.
+<li>Github: https://github.com/extremecoders-re/pyinstxtractor</li>
 
 </br>
 
