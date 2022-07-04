@@ -66,6 +66,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Anaconda</i> - The World's Most Popular Data Science Platform.
+<li>Website: https://anaconda.org/</li>
+<li>Github: https://github.com/Anaconda-Platform/anaconda-project</li>
+
+</br>
+
 <b>3) another language compilers</b>
 
 <i>Cython</i> - The most widely used Python to C compiler.
@@ -89,12 +95,6 @@ Links to useful Python libraries for your daily work.
 <i>pyast64</i> - Compile a subset of the Python AST to x64-64 assembler
 <li>Website: https://benhoyt.com/writings/pyast64/</li>
 <li>Github: https://github.com/benhoyt/pyast64</li>
-
-</br>
-
-<i>Anaconda</i> - The World's Most Popular Data Science Platform.
-<li>Website: https://anaconda.org/</li>
-<li>Github: https://github.com/Anaconda-Platform/anaconda-project</li>
 
 </br>
 
