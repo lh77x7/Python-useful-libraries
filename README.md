@@ -92,6 +92,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>Anaconda</i> - The World's Most Popular Data Science Platform.
+<li>Website: https://anaconda.org/</li>
+<li>Github: https://github.com/Anaconda-Platform/anaconda-project</li>
+
+</br>
+
 <b>4) you will love it!</b>
 
 <i>Tkinter</i> - Python's de-facto standard GUI (Graphical User Interface) package. </br>
