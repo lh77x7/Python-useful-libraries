@@ -72,6 +72,12 @@ Links to useful Python libraries for your daily work.
 
 </br>
 
+<i>OpenCV (Open Source Computer Vision Library)</i> - is an open source computer vision and machine learning software library.
+<li>Website: https://opencv.org/</li>
+<li>Github: https://github.com/opencv</li>
+
+</br>
+
 <b>3) another language compilers</b>
 
 <i>Cython</i> - The most widely used Python to C compiler.
